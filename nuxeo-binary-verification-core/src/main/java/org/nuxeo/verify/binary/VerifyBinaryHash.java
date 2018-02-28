@@ -20,7 +20,7 @@ import org.nuxeo.runtime.api.Framework;
 @Operation(id = VerifyBinaryHash.ID, category = Constants.CAT_DOCUMENT, label = "Check Binary by Hash", description = "Check to see if the binary is found within the system. Returns the same digest if found, null otherwise.")
 public class VerifyBinaryHash {
 
-  public static final String ID = "Document.VerifyBinaryHash";
+  public static final String ID = "Blob.VerifyBinaryHash";
 
   @Context
   protected CoreSession session;
