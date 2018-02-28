@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.nuxeo.verify.binary
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-binary-verification-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.nuxeo.verify.binary.nuxeo-binary-verification-core;singleton=true
+Nuxeo-Component: OSGI-INF/verifybinaryhash-operation-contrib.xml
