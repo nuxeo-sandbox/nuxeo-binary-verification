@@ -2,7 +2,8 @@
 
 Verifies the presence of binary data within the repository via the MD5 hash.  This operation will
 check the underlying stores to verify the presence of data.  If the data is present, the digest
-of the file will be returned.  If the data is not found, a null value will be returned.
+of the file will be returned.  If the data is not found, a null or empty (204) response will be
+returned.
 
 Operation: `Blob.VerifyBinaryHash`
 
