@@ -9,7 +9,7 @@
 
   <groupId>org.nuxeo.verify.binary</groupId>
   <artifactId>nuxeo-binary-verification-parent</artifactId>
-  <version>9.10-SNAPSHOT</version>
+  <version>9.10</version>
   <name>Nuxeo binary verification parent</name>
   <description>Verify Binary by Hash via Operation</description>
   <packaging>pom</packaging>
