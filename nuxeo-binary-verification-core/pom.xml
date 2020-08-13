@@ -7,7 +7,7 @@
     <version>10.10-SNAPSHOT</version>
   </parent>
   <artifactId>nuxeo-binary-verification-core</artifactId>
-  <name>Nuxeo binary verification core</name>
+  <name>Binary Hash Verification :: Core</name>
   <description>Nuxeo Verify Binary by Hash</description>
 
   <dependencies>
