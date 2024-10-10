@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This operation has been moved to [nuxeo-labs-utils](https://github.com/nuxeo-sandbox/nuxeo-labs-utils)
+
+<hr>
+
 # About
 
 Verifies the presence of binary data within the repository via the MD5 hash.  This operation will
